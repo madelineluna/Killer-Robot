@@ -1,2 +1,179 @@
 # Killer-Robot
 A team-developed 3D action-platformer built in Unity featuring enemy AI, environmental obstacles, health and objective systems, interactive UI, audio controls, and a final boss encounter.
+
+> **Project status:** Completed school project  
+> **Engine:** Unity  
+> **Genre:** 3D action-platformer  
+> **Platform:** PC and macOS
+
+<!--<img width="1499" height="840" alt="Screenshot 2026-07-23 at 2 10 10 PM" src="https://github.com/user-attachments/assets/560c191d-ec31-4ee3-90ef-361f246f3856" />-->
+<p align="center">
+  <img src="Documentation/Images/killer-robot-banner.png" alt="Killer Robot gameplay banner" width="850">
+</p>
+
+## Gameplay Overview
+
+The player awakens inside a dangerous robotics facility and must find a way out. Progress requires exploring the environment, overcoming moving obstacles, fighting enemy robots, and collecting three jump parts. After restoring the required abilities, the player must defeat the final boss and escape the facility.
+
+### Main Objectives
+
+- Explore the robot facility.
+- Avoid lasers, pistons, moving platforms, rolling hazards, and other obstacles.
+- Defeat hostile robots.
+- Collect all three jump parts.
+- Reach and defeat the final boss.
+- Escape the facility.
+
+## Gameplay Preview
+
+<!-- TBD -->
+<p align="center">
+  <img src="Documentation/Gifs/gameplay-preview.gif" alt="Killer Robot gameplay preview" width="750">
+</p>
+
+### Video
+
+- [Watch the gameplay trailer] https://drive.google.com/file/d/1DtgiNeJSkqpNrU27i16E_-0bm0vYZHr4/view?usp=sharing
+- [Watch the complete playthrough] https://drive.google.com/file/d/1wk43S_S7r7g4-o7MMRR1-AgMiF8zgm_t/view?usp=sharing
+
+## Features
+
+- Third-person player movement and combat
+- Enemy robots that follow and damage the player
+- Health, damage, healing, and death systems
+- Dynamic objective tracking
+- Collectible jump parts
+- Elevators and moving platforms that carry the player
+- Rotating lasers and environmental damage
+- Sliding blockers and crushing pistons
+- Randomized rolling-ball hazards
+- Health pickups
+- Pause, death, and victory menus
+- Final boss encounter
+- Timer and gameplay HUD
+- Music and sound-effect controls
+- Adjustable mouse sensitivity
+- Resolution, quality, and fullscreen settings
+- Persistent settings between scenes
+
+## Screenshots
+
+<p align="center">
+  <img src="Documentation/Images/gameplay-1.png" alt="Player exploring the robot facility" width="48%">
+  <img src="Documentation/Images/gameplay-2.png" alt="Player navigating environmental hazards" width="48%">
+</p>
+
+<p align="center">
+  <img src="Documentation/Images/gameplay-3.png" alt="Combat against an enemy robot" width="48%">
+  <img src="Documentation/Images/gameplay-4.png" alt="Killer Robot boss encounter" width="48%">
+</p>
+
+> Replace the example image paths with screenshots from your project. GitHub will display the images automatically after they are committed.
+
+## Controls
+
+| Action | Control |
+|---|---|
+| Move | `W`, `A`, `S`, `D` |
+| Look | Mouse |
+| Jump | `Space` |
+| Attack / Shoot | Left mouse button |
+| Pause | `P` or `Esc` |
+
+Update this table if your final build uses different controls.
+
+## My Contributions
+
+My primary responsibilities included environmental obstacles, gameplay UI, menus, settings, audio integration, and supporting gameplay systems.
+
+### Obstacles and Gameplay Systems
+
+- Created the elevator system and player-carry behavior.
+- Developed moving platforms and moving-step obstacles.
+- Implemented rotating lasers and environmental damage.
+- Created sliding blockers and crushing pistons.
+- Developed randomized rolling-ball spawning and despawning.
+- Added health pickups and enemy contact damage.
+- Connected the boss defeat state to the victory screen.
+
+### User Interface
+
+- Created the start menu, pause menu, death panel, and victory panel.
+- Implemented the player health bar and damage feedback.
+- Added the gameplay timer.
+- Created the dynamic objective tracker for enemies and jump parts.
+- Managed cursor locking and gameplay input while menus were open.
+
+### Audio and Settings
+
+- Integrated music and sound effects with Unity's `AudioMixer`.
+- Added master, music, and sound-effect volume controls.
+- Added sensitivity, resolution, quality, and fullscreen settings.
+- Implemented persistent settings across scenes.
+- Added separate death and victory audio behavior.
+
+## Technology Used
+
+- Unity
+- C#
+- Universal Render Pipeline
+- Cinemachine
+- Unity AudioMixer
+- Git and GitHub
+- Git LFS
+
+## Project Structure
+
+The most important Unity project folders are:
+
+```text
+Killer-Robot/
+├── Assets/
+├── Packages/
+├── ProjectSettings/
+├── Documentation/
+├── Test Assets/
+├── Build/
+├── PlayTest Data/
+├── .gitignore
+├── .gitattributes
+└── README.md
+```
+
+Unity-generated folders such as `Library`, `Temp`, `Logs`, and `Obj` are intentionally excluded through the Unity `.gitignore`.
+
+## Opening the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/madelineluna/Killer-Robot.git
+   ```
+
+2. Open Unity Hub.
+3. Select **Add project from disk**.
+4. Choose the cloned `Killer-Robot` folder.
+5. Open the project using the Unity version listed in:
+
+   ```text
+   ProjectSettings/ProjectVersion.txt
+   ```
+
+6. Open the main menu or gameplay scene from the `Assets` folder.
+7. Press **Play** in the Unity Editor.
+
+## Team and Credits
+
+Killer Robot was originally created as a collaborative school project.
+
+Contributions are listed in the file named LevelOneLegends_KillerRobot_readme.txt
+
+Please preserve credit for every original contributor when sharing or modifying the project.
+
+## Third-Party Assets
+
+This project may contain third-party Unity assets, models, textures, sounds, animations, or packages. Ownership remains with their original creators.
+
+## License
+
+This repository currently has no open-source license. The project was created collaboratively, so its code and assets should not be reused, redistributed, or relicensed without permission from the contributors and the owners of any third-party assets.
