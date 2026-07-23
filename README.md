@@ -58,17 +58,50 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 
 ## Screenshots
 
+## Screenshots
+
+### Main Menu
+
 <p align="center">
-  <img src="Documentation/Images/gameplay-1.png" alt="Player exploring the robot facility" width="48%">
-  <img src="Documentation/Images/gameplay-2.png" alt="Player navigating environmental hazards" width="48%">
+  <img src="Screenshots/MainBackground.png" alt="Killer Robot main menu background" width="800">
 </p>
 
 <p align="center">
-  <img src="Documentation/Images/gameplay-3.png" alt="Combat against an enemy robot" width="48%">
-  <img src="Documentation/Images/gameplay-4.png" alt="Killer Robot boss encounter" width="48%">
+  <img src="Screenshots/HomeScreen.png" alt="Killer Robot home screen" width="48%">
+  <img src="Screenshots/Rules.png" alt="Killer Robot rules screen" width="48%">
 </p>
 
-> Replace the example image paths with screenshots from your project. GitHub will display the images automatically after they are committed.
+<p align="center">
+  <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="48%">
+  <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="48%">
+</p>
+
+### Gameplay
+
+<p align="center">
+  <img src="Screenshots/LocatingEnemyRobots.png" alt="Locating enemy robots objective" width="48%">
+  <img src="Screenshots/Combat.png" alt="Combat against enemy robots" width="48%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/ElevatorandLasers.png" alt="Elevator and laser obstacles" width="48%">
+  <img src="Screenshots/ClearingMovingObjects.png" alt="Moving obstacle gameplay" width="48%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/ObjectivesUpdating.png" alt="Dynamic objective updates" width="800">
+</p>
+
+### Boss and End Screens
+
+<p align="center">
+  <img src="Screenshots/BossEnemy.png" alt="Final boss encounter" width="48%">
+  <img src="Screenshots/WinScreen.png" alt="Victory screen" width="48%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/DeathScreen.png" alt="Player death screen" width="600">
+</p>
 
 ## Controls
 
@@ -77,10 +110,10 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 | Move | `W`, `A`, `S`, `D` |
 | Look | Mouse |
 | Jump | `Space` |
+| Sprint | `Shift` |
 | Attack / Shoot | Left mouse button |
-| Pause | `P` or `Esc` |
-
-Update this table if your final build uses different controls.
+| Meele Attack / Hit | Right mouse button |
+| Pause | `P` |
 
 ## My Contributions
 
