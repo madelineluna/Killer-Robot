@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Robot Upper Body
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Center Post
+    m_Weight: 1
+  - m_Path: Armature/Center Post/CenterPost
+    m_Weight: 0
+  - m_Path: Armature/Center Post/CenterPost/RollerBase
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left
+    m_Weight: 0
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left/Hand_left
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left/Hand_left/Hand_left_end
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left/Hand_left/LeftHand
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left/LeftArm
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_left/Shoulder_left/Arm_left/LeftArm/LeftWrist
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right
+    m_Weight: 0
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right
+    m_Weight: 0
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/Hand_right
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/Hand_right/Hand_right_end
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/Hand_right/RightHand
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/Hand_right/RightHand/HandgunGrip
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/Hand_right/RightHand/HandgunGrip/HandgunBarrel
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/RightArm
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/Collar_right/Shoulder_right/Arm_right/RightArm/RightWrist
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/RobotBody
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/RobotBody/Antenna
+    m_Weight: 1
+  - m_Path: Armature/Center Post/Spine/RobotBody/LensCover
+    m_Weight: 0
+  - m_Path: Armature/Center Post/Spine/RobotBody/LensCover/Lens
+    m_Weight: 0

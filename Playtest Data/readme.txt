@@ -1,0 +1,3 @@
+RawPlaytestData.xlsx contains the 10 completed survey instruments in one workbook. The combined survey data is contained in an additional file called PlaytestDataTable.xlsx. This was separated from the PlaytestResults.pdf due to the large amount of data contained.
+
+The key data (Likert scores and analysis) appear in the PlaytestResults.pdf file, but because the data collection method included a think-aloud session, there was a large amount of qualitative data that could not neatly be included in the PlaytestResults.pdf document.
