@@ -191,7 +191,10 @@ Unity-generated folders such as `Library`, `Temp`, `Logs`, and `Obj` are intenti
 
 Killer Robot was originally created as a collaborative school project.
 
-Contributions are listed in the file named LevelOneLegends_KillerRobot_readme.txt
+Contributions are listed in the file:
+  ```text
+   LevelOneLegends_KillerRobot_readme.txt
+   ```
 
 Please preserve credit for every original contributor when sharing or modifying the project.
 
