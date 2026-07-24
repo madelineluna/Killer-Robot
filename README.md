@@ -59,8 +59,11 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 </p>
 
 <p align="center">
-  <img src="Screenshots/Rules.png" alt="Killer Robot rules screen" width="50%">
-  <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="50%">
+  <img src="Screenshots/Rules.png" alt="Killer Robot rules screen" width="48%">
+  <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="48%">
+</p>
+
+<p align="center">
   <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="50%">
 </p>
 
