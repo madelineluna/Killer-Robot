@@ -1,9 +1,9 @@
 # Killer-Robot
 A team-developed 3D action-platformer built in Unity featuring enemy AI, environmental obstacles, health and objective systems, interactive UI, audio controls, and a final boss encounter.
 
-> **Project status:** Completed course project
-> **Course:** CS 6457 - Video Game Design
-> **Institution:** Georgia Institute of Technology 
+> **Project status:** Completed course project  
+> **Course:** CS 6457 - Video Game Design  
+> **Institution:** Georgia Institute of Technology  
 > **Engine:** Unity  
 > **Genre:** 3D action-platformer  
 > **Platform:** PC and macOS
@@ -63,24 +63,21 @@ The player awakens inside a dangerous robotics facility and must find a way out.
   <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="48%">
 </p>
 
-<p align="center">
-  <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="50%">
-</p>
-
 ### Gameplay
 
 <p align="center">
+  <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="48%">
   <img src="Screenshots/LocatingEnemyRobots.png" alt="Locating enemy robots objective" width="48%">
+</p>
+
+<p align="center">
   <img src="Screenshots/Combat.png" alt="Combat against enemy robots" width="48%">
-</p>
-
-<p align="center">
   <img src="Screenshots/ElevatorandLasers.png" alt="Elevator and laser obstacles" width="48%">
-  <img src="Screenshots/ClearingMovingObjects.png" alt="Moving obstacle gameplay" width="48%">
 </p>
 
 <p align="center">
-  <img src="Screenshots/ObjectivesUpdating.png" alt="Dynamic objective updates" width="800">
+  <img src="Screenshots/ClearingMovingObjects.png" alt="Moving obstacle gameplay" width="48%">
+  <img src="Screenshots/ObjectivesUpdating.png" alt="Dynamic objective updates" width="48%">
 </p>
 
 ### Boss and End Screens
