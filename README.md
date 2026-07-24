@@ -1,14 +1,10 @@
 # Killer-Robot
 A team-developed 3D action-platformer built in Unity featuring enemy AI, environmental obstacles, health and objective systems, interactive UI, audio controls, and a final boss encounter.
 
-> **Project status:** Completed course project
-> 
-> **Course:** CS 6457 - Video Game Design
-> 
-> **Institution:** Georgia Institute of Technology
-> 
-> **Engine:** Unity
-> 
+> **Project status:** Completed course project    
+> **Course:** CS 6457 - Video Game Design    
+> **Institution:** Georgia Institute of Technology   
+> **Engine:** Unity    
 > **Genre:** 3D action-platformer  
 > **Platform:** PC and macOS
 
