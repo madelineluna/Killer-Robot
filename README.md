@@ -187,6 +187,13 @@ Unity-generated folders such as `Library`, `Temp`, `Logs`, and `Obj` are intenti
 
 Killer Robot was originally created as a collaborative school project.
 
+***Group Members:***
+- Madeline Luna  
+- Audrey Brainerd  
+- Joshua Newsome  
+- Mariana Zornes  
+- Sam Mohseni   
+
 Contributions are listed in the file:
   ```text
    LevelOneLegends_KillerRobot_readme.txt
