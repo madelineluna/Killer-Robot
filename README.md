@@ -27,8 +27,8 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 
 ### Gameplay Video
 
-- [Watch the gameplay trailer] https://drive.google.com/file/d/1DtgiNeJSkqpNrU27i16E_-0bm0vYZHr4/view?usp=sharing
-- [Watch the complete playthrough] https://drive.google.com/file/d/1wk43S_S7r7g4-o7MMRR1-AgMiF8zgm_t/view?usp=sharing
+- [Watch the gameplay trailer](https://drive.google.com/file/d/1DtgiNeJSkqpNrU27i16E_-0bm0vYZHr4/view?usp=sharing)
+- [Watch the complete playthrough](https://drive.google.com/file/d/1wk43S_S7r7g4-o7MMRR1-AgMiF8zgm_t/view?usp=sharing)
 
 ## Features
 
