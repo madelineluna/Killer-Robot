@@ -1,14 +1,15 @@
 # Killer-Robot
 A team-developed 3D action-platformer built in Unity featuring enemy AI, environmental obstacles, health and objective systems, interactive UI, audio controls, and a final boss encounter.
 
-> **Project status:** Completed school project  
+> **Project status:** Completed course project
+> **Course:** CS 6457 - Video Game Design
+> **Institution:** Georgia Institute of Technology 
 > **Engine:** Unity  
 > **Genre:** 3D action-platformer  
 > **Platform:** PC and macOS
 
-<!--<img width="1499" height="840" alt="Screenshot 2026-07-23 at 2 10 10 PM" src="https://github.com/user-attachments/assets/560c191d-ec31-4ee3-90ef-361f246f3856" />-->
 <p align="center">
-  <img src="Documentation/Images/killer-robot-banner.png" alt="Killer Robot gameplay banner" width="850">
+  <img src="Screenshots/MainBackground.png" alt="Killer Robot main menu background" width="850">
 </p>
 
 ## Gameplay Overview
@@ -20,18 +21,11 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 - Explore the robot facility.
 - Avoid lasers, pistons, moving platforms, rolling hazards, and other obstacles.
 - Defeat hostile robots.
-- Collect all three jump parts.
+- Complete objectives.
 - Reach and defeat the final boss.
 - Escape the facility.
 
-## Gameplay Preview
-
-<!-- TBD -->
-<p align="center">
-  <img src="Documentation/Gifs/gameplay-preview.gif" alt="Killer Robot gameplay preview" width="750">
-</p>
-
-### Video
+### Gameplay Video
 
 - [Watch the gameplay trailer] https://drive.google.com/file/d/1DtgiNeJSkqpNrU27i16E_-0bm0vYZHr4/view?usp=sharing
 - [Watch the complete playthrough] https://drive.google.com/file/d/1wk43S_S7r7g4-o7MMRR1-AgMiF8zgm_t/view?usp=sharing
@@ -58,22 +52,16 @@ The player awakens inside a dangerous robotics facility and must find a way out.
 
 ## Screenshots
 
-## Screenshots
-
 ### Main Menu
 
 <p align="center">
-  <img src="Screenshots/MainBackground.png" alt="Killer Robot main menu background" width="800">
+  <img src="Screenshots/HomeScreen.png" alt="Killer Robot home screen" width="800">
 </p>
 
 <p align="center">
-  <img src="Screenshots/HomeScreen.png" alt="Killer Robot home screen" width="48%">
-  <img src="Screenshots/Rules.png" alt="Killer Robot rules screen" width="48%">
-</p>
-
-<p align="center">
-  <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="48%">
-  <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="48%">
+  <img src="Screenshots/Rules.png" alt="Killer Robot rules screen" width="50%">
+  <img src="Screenshots/Settings.png" alt="Killer Robot settings screen" width="50%">
+  <img src="Screenshots/StartPositionInGame.png" alt="Starting position in the game" width="50%">
 </p>
 
 ### Gameplay
